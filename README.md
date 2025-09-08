@@ -19,12 +19,11 @@ Built with **Android Studio (Kotlin + Jetpack Compose)** and **Python (via Chaqu
 
 ## 📷 Screenshots
 
-<img width="2048" height="2732" alt="mockup_5" src="https://github.com/user-attachments/assets/7c56abcf-f947-458c-a7fd-b0dcc63d5ed0" />
-<img width="2048" height="2732" alt="mockup_4" src="https://github.com/user-attachments/assets/a3a44edb-d650-4881-a74a-dfe3d125f7f9" />
-<img width="2048" height="2732" alt="mockup_3" src="https://github.com/user-attachments/assets/b0c62ed1-a22b-4d22-b60e-66a5ee0866e9" />
-<img width="2048" height="2732" alt="mockup_2" src="https://github.com/user-attachments/assets/d5070739-1aca-4ad1-af88-07210a93fe85" />
 <img width="2048" height="2732" alt="mockup_1" src="https://github.com/user-attachments/assets/c5328c48-3596-4c50-8c8c-18b7d4fa1b79" />
-
+<img width="2048" height="2732" alt="mockup_2" src="https://github.com/user-attachments/assets/d5070739-1aca-4ad1-af88-07210a93fe85" />
+<img width="2048" height="2732" alt="mockup_3" src="https://github.com/user-attachments/assets/b0c62ed1-a22b-4d22-b60e-66a5ee0866e9" />
+<img width="2048" height="2732" alt="mockup_4" src="https://github.com/user-attachments/assets/a3a44edb-d650-4881-a74a-dfe3d125f7f9" />
+<img width="2048" height="2732" alt="mockup_5" src="https://github.com/user-attachments/assets/7c56abcf-f947-458c-a7fd-b0dcc63d5ed0" />
 
 ---
 
